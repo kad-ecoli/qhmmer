@@ -1,3 +1,11 @@
+This is a fork for HMMER 3.1b2. Three programs are added to the standard
+HMMER package: qhmmsearch, qjackhmmer, qhmmbuild. These three programs
+are essentially the same as their upstream counter part hmmsearch, 
+jackhmmer and hmmbuild, except that the output alignment is much more
+compact to save disk space. The original REAME file from HMMER 3.1b2 is
+attached below:
+
+
 HMMER - profile hidden Markov models for biological sequence analysis
 http://hmmer.org/
 Version 3.1b2; February 2015
