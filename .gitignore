@@ -3,6 +3,33 @@
 
 # object files
 *.o
+*.stamp
+
+# compiled binaries
+alimask
+hmmalign
+hmmbuild
+hmmc2
+hmmconvert
+hmmemit
+hmmerfm-exactmatch
+hmmfetch
+hmmlogo
+hmmpgmd
+hmmpress
+hmmscan
+hmmsearch
+hmmsim
+hmmstat
+jackhmmer
+makehmmerdb
+nhmmer
+nhmmscan
+phmmer
+qhmmbuild
+qhmmsearch
+qjackhmmer
+*.a
 
 # compiled python file
 *.pyc
