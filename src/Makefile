@@ -6,7 +6,7 @@ SHELL      = /bin/sh
 
 # Installation targets
 #
-prefix      = /nfs/amino-home/zcx/Projects/EVfold/src/hmmer
+prefix      = /nfs/amino-home/zcx/Projects/EVfold/ext/HMMER
 exec_prefix = ${prefix}
 datarootdir = ${prefix}/share
 bindir      = ${exec_prefix}/bin
